@@ -30,3 +30,7 @@ back tics
 _____
 
 > qoute text
+
+[scarletknights1-](scarletknights1-) is a hyperlink to directory/file in repo
+
+! [pile of cash]() will add phot that is already in repo
