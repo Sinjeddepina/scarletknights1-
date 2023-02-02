@@ -33,4 +33,4 @@ _____
 
 [scarletknights1-](scarletknights1-) is a hyperlink to directory/file in repo
 
-! [pile of cash]() will add phot that is already in repo
+! [pile of cash](pile of money.jpeg) will add phot that is already in repo
